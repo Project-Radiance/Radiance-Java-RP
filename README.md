@@ -1,4 +1,4 @@
-Crystalized Java Resource Pack!
+Radiance Java Resource Pack! Will be changed as things progress to make it more different. 
 
 For versions 26.1.2 - 26.2
 
